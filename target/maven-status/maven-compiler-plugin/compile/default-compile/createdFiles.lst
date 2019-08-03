@@ -1,0 +1,5 @@
+com\hunter\dao\BaseDAO.class
+com\hunter\service\ProductService.class
+com\hunter\actions\ProductAction.class
+com\hunter\entity\ProductEntity.class
+com\hunter\dao\ProductDAOImpl.class
